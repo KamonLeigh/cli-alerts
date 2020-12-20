@@ -1,6 +1,6 @@
 {
     "name": "cli-alerts-l",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Cross platform CLI Alerts with colours and coloured symbols for success, info, warning and error. Works on macOs, Windows and Linux",
     "license": "MIT",
     "repository": "KamonLeigh/cli-alerts",
