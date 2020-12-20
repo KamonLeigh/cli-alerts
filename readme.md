@@ -11,7 +11,7 @@ npm install cli-alerts-l
 ## Usage
 
 ```js
-const alert = require('js-cli-alerts');
+const alert = require('cli-alerts-l');
 
 // Provide the type, msg, and name options.
 alert({type: `success`, msg: `Everything finished!`});
